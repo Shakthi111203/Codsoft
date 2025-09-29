@@ -1,7 +1,7 @@
 # CodSoft Internship – Python Programming  
 
 ## 📌 Overview  
-This repository encapsulates my enriching **4-week internship experience at CodSoft**, where I engaged in a series of projects that emphasized the **practical application of Python programming skills**, particularly in **graphical user interface (GUI) development**.  
+This repository encapsulates my enriching **internship experience at CodSoft**, where I engaged in a series of projects that emphasized the **practical application of Python programming skills**, particularly in **graphical user interface (GUI) development**.  
 
 Over the course of the internship, I successfully completed **five diverse projects**, each tailored to address specific challenges and demonstrate core programming concepts.  
 
