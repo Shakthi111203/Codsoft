@@ -25,8 +25,7 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Key Features:** Addition, subtraction, multiplication, division with real-time event handling.  
 **Skills Learned:** GUI layout management, logic implementation, error handling. 
 
-![Screenshots/2-Calculator.png](https://github.com/Shakthi111203/Codsoft/blob/main/Screenshots/2-Calculator.png)
-
+<img src="Screenshots/2-Calculator.png" width="300">
 
 ---
 
