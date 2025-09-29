@@ -14,6 +14,7 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Tech Used:** Python, Tkinter  
 **Key Features:** Add, update, and delete tasks with an interactive interface.  
 **Skills Learned:** GUI design, event-driven programming, task management.  
+![Todo List](Screenshots/1-Todo list.png)
 
 ---
 
@@ -22,7 +23,6 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Tech Used:** Python, Tkinter  
 **Key Features:** Addition, subtraction, multiplication, division with real-time event handling.  
 **Skills Learned:** GUI layout management, logic implementation, error handling. 
-![Alt text](Screenshots/1-Todo list.png)
 
 
 ---
