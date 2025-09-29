@@ -55,5 +55,5 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Key Features:** Add, view, update, and delete contact information with popup details.  
 **Skills Learned:** CRUD operations, advanced GUI design, event-driven programming, data management.  
 
-<img src="Screenshots/5-Contact Book.png" width="300">
+<img src="Screenshots/5-Contact Book.png" width="600">
 
