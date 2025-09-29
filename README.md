@@ -15,7 +15,7 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Key Features:** Add, update, and delete tasks with an interactive interface.  
 **Skills Learned:** GUI design, event-driven programming, task management.  
 
-![Screenshots/1-Todo list.png](https://github.com/Shakthi111203/Codsoft/blob/main/Screenshots/1-Todo%20list.png)
+<img src="Screenshots/1-Todo list.png" width="300">
 
 ---
 
