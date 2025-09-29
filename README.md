@@ -19,16 +19,18 @@ Over the course of the internship, I successfully completed **five diverse proje
 
 ---
 
-### 2. ✅ Calculator Application  
+### 2. 🧮 Calculator Application  
 **Description:** A fully functional calculator capable of performing basic arithmetic operations.  
 **Tech Used:** Python, Tkinter  
 **Key Features:** Addition, subtraction, multiplication, division with real-time event handling.  
 **Skills Learned:** GUI layout management, logic implementation, error handling. 
 
+![Screenshots/2-Calculator.png](https://github.com/Shakthi111203/Codsoft/blob/main/Screenshots/2-Calculator.png)
+
 
 ---
 
-### 3. ✅ Password Generator  
+### 3. 🔑 Password Generator  
 **Description:** A secure password generator to create strong, random passwords.  
 **Tech Used:** Python, Tkinter, `random` & `string` modules  
 **Key Features:** Customizable password length, randomization for enhanced security.  
@@ -36,7 +38,7 @@ Over the course of the internship, I successfully completed **five diverse proje
 
 ---
 
-### 4. ✅ Rock, Paper, Scissors Game  
+### 4. 🎮 Rock, Paper, Scissors Game  
 **Description:** An interactive game between user and computer.  
 **Tech Used:** Python, Tkinter, `random` module  
 **Key Features:** Dynamic score tracking, interactive gameplay.  
@@ -44,7 +46,7 @@ Over the course of the internship, I successfully completed **five diverse proje
 
 ---
 
-### 5. ✅ Contact Management System  
+### 5. 📑 Contact Management System  
 **Description:** A comprehensive application for managing contacts.  
 **Tech Used:** Python, Tkinter, File Handling  
 **Key Features:** Add, view, update, and delete contact information with popup details.  
