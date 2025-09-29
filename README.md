@@ -35,6 +35,8 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Key Features:** Customizable password length, randomization for enhanced security.  
 **Skills Learned:** String manipulation, randomization, secure coding practices.  
 
+<img src="Screenshots/3-Password Generator.png" width="300">
+
 ---
 
 ### 4. 🎮 Rock, Paper, Scissors Game  
@@ -43,6 +45,8 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Key Features:** Dynamic score tracking, interactive gameplay.  
 **Skills Learned:** Algorithmic design, randomization, GUI integration.  
 
+<img src="Screenshots/4-Rock Paper Scissors.png" width="300">
+
 ---
 
 ### 5. 📑 Contact Management System  
@@ -50,4 +54,6 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Tech Used:** Python, Tkinter, File Handling  
 **Key Features:** Add, view, update, and delete contact information with popup details.  
 **Skills Learned:** CRUD operations, advanced GUI design, event-driven programming, data management.  
+
+<img src="Screenshots/5-Contact Book.png" width="300">
 
