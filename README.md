@@ -21,7 +21,9 @@ Over the course of the internship, I successfully completed **five diverse proje
 **Description:** A fully functional calculator capable of performing basic arithmetic operations.  
 **Tech Used:** Python, Tkinter  
 **Key Features:** Addition, subtraction, multiplication, division with real-time event handling.  
-**Skills Learned:** GUI layout management, logic implementation, error handling.  
+**Skills Learned:** GUI layout management, logic implementation, error handling. 
+![Alt text](Screenshots/1-Todo list.png)
+
 
 ---
 
